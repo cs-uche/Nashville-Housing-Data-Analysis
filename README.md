@@ -1,5 +1,5 @@
 # Nashville Housing Data Analysis
-The Nashville Housing Data Cleaning project aim to enhance the quality and structure of the Nashville Housing dataset, available from Kaggle. The dataset, sourced from [link](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data), contains valuable information about property sales in Nashville.
+The Nashville Housing Data Cleaning project aims to enhance the quality and structure of the Nashville Housing dataset, available from Kaggle. The dataset, sourced from [link](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data), contains valuable information about property sales in Nashville.
 
 ## Data Cleaning Steps
 1. Standardize date
